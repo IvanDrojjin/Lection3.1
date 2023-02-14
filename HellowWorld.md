@@ -6,3 +6,5 @@ git push -u origin main
 
 Add new lines
 write new line  in GitHub   20:02 14.02.2023
+
+![Сделать ...](Lesson3.1.JPG)
